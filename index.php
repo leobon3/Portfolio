@@ -4,9 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
-    <h1>INDEX PORTFOLIO</h1>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/skins/color-1.css">
 </head>
 <body>
-    <h1>sadas</h1>
+    
+
+    <!-- JS FILES -->
+    <script src="js/script.js"></script>
 </body>
 </html>
