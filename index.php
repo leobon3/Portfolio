@@ -288,7 +288,8 @@
                         </div>
                         <!-- Service item end-->
                     </div>
-                </div>
+                
+    
             </section>
             <!-- Services Section end -->
             <!-- Portfolio Section start -->
@@ -301,7 +302,7 @@
                     </div>
                     <div class="row">
                         <div class="portfolio-heading padd-15">
-                            <h2>My Last Projects :</h2>
+                            <h2>My Latest Projects :</h2>
                         </div>
                     </div>
                     <div class="row">
