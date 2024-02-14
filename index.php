@@ -28,18 +28,18 @@
                 <span></span>
             </div>
             <ul class="nav">
-                <li><a href="#" class="active"><i class="fa fa-home"></i>Home</a> </li>
-                <li><a href="#"> <i class="fa fa-user"></i> About </a></li>
-                <li><a href="#"> <i class="fa fa-list"></i>Services</a></li>
-                <li><a href="#"> <i class="fa fa-briefcase"></i> Portfolio </a></li>
-                <li><a href="#"> <i class="fa fa-comments"></i> Contact </a></li>
+                <li><a href="#home" class="active"><i class="fa fa-home"></i>Home</a> </li>
+                <li><a href="#about"> <i class="fa fa-user"></i> About </a></li>
+                <li><a href="#services"> <i class="fa fa-list"></i>Services</a></li>
+                <li><a href="#portfolio"> <i class="fa fa-briefcase"></i> Portfolio </a></li>
+                <li><a href="#contact"> <i class="fa fa-comments"></i> Contact </a></li>
             </ul>
         </div>
         <!-- aside end -->
         <!-- Main Content start -->
         <div class="main-content">
             <!-- Home Section Start -->
-            <section class= "home section">
+            <section class= "home active section" id="home"> 
                 <div class="container">
                     <div class="row">
                        <div class="home-info padd-15">
@@ -47,7 +47,7 @@
                             <h3 class="my-profession">I'm a <span class="typing">Web Developer</span></h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                             Ipsum cum hic quisquam excepturi omnis dolore, fugit officiis qui libero labore perferendis quod, impedit exercitationem perspiciatis! Facere dignissimos illo voluptate eum!</p>
-                            <a href= "#contact" class= "btn hire-me">Hire Me</a>
+                            <a href= "images/Tan-CV.pdf" download class= "btn">Download CV</a>
                        </div>
                        <div class="home-img padd-15">
                             <img src="images/me.jpg" alt="">
@@ -57,7 +57,7 @@
             </section>
             <!-- Home Section End -->
             <!-- About Section Start -->
-            <section class="about section">
+            <section class="about section" id="about">
                 <div class="container">
                     <div class="row">
                         <div class="section-title padd-15">
@@ -103,8 +103,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="buttons padd-15">
-                                            <a href="#" class="btn">Download CV</a>
-                                            <a href="#contact" class="btn hire-me">Hire Me</a>
+                                            <a href="#contact"data-section-index="1" class="btn hire-me">Hire Me</a>
                                         </div>
                                     </div>
                                 </div>
@@ -223,7 +222,7 @@
             </section>
             <!-- About Section End -->
             <!-- Services Section Start -->
-            <section class="service section">
+            <section class="service section" id="services">
                 <div class="container">
                     <div class="row">
                         <div class="section-title padd-15">
@@ -300,7 +299,7 @@
             </section>
             <!-- Services Section end -->
             <!-- Portfolio Section start -->
-            <section class="portfolio section">
+            <section class="portfolio section"id="portfolio">
                 <div class="container">
                     <div class="row">
                         <div class="section-title padd-15">
@@ -363,7 +362,7 @@
             </section>
             <!-- Portfolio Section end -->
             <!-- Contact Section start -->
-            <section class="contact section">
+            <section class="contact section" id="contact">
                 <div class="container">
                     <div class="row">
                         <div class="section-title padd-15">
@@ -450,7 +449,7 @@
             <i class="fas fa-cog fa-spin"></i>
         </div>
         <div class="day-night s-icon">
-            <i class="fas fa-moon"></i>
+            <i class="fas"></i>
         </div>
         <h4>Theme Colors</h4>
         <div class="colors">
@@ -463,6 +462,7 @@
     </div>
     <!-- STYLE swiitcher end-->
     <!-- JS FILES -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.1.0/typed.umd.js" integrity="sha512-+2pW8xXU/rNr7VS+H62aqapfRpqFwnSQh9ap6THjsm41AxgA0MhFRtfrABS+Lx2KHJn82UOrnBKhjZOXpom2LQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="js/script.js"></script>
     <script src="js/style-switcher.js"></script>
 </body>
