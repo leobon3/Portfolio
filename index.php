@@ -47,10 +47,10 @@
                             <h3 class="my-profession">I'm a <span class="typing">Web Developer</span></h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                             Ipsum cum hic quisquam excepturi omnis dolore, fugit officiis qui libero labore perferendis quod, impedit exercitationem perspiciatis! Facere dignissimos illo voluptate eum!</p>
-                            <a href= "images/Tan-CV.pdf" download class= "btn">Download CV</a>
+                            <a href= "./images/Tan-CV.pdf" download class= "btn">Download CV</a>
                        </div>
                        <div class="home-img padd-15">
-                            <img src="images/me.jpg" alt="">
+                            <img src="./images/me.jpg" alt="">
                        </div> 
                     </div>
                 </div>
@@ -316,42 +316,42 @@
                         <div class="portfolio-item padd-15">
                             <div class="portfolio-item-inner shadow-dark">
                                 <div class="portfolio-img">
-                                    <img src="images/portfolio-1.jpg" alt="">
+                                    <img src="./images/portfolio-1.jpg" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="portfolio-item padd-15">
                             <div class="portfolio-item-inner shadow-dark">
                                 <div class="portfolio-img">
-                                    <img src="images/portfolio-2.jpg" alt="">
+                                    <img src="./images/portfolio-2.jpg" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="portfolio-item padd-15">
                             <div class="portfolio-item-inner shadow-dark">
                                 <div class="portfolio-img">
-                                    <img src="images/portfolio-3.jpg" alt="">
+                                    <img src="./images/portfolio-3.jpg" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="portfolio-item padd-15">
                             <div class="portfolio-item-inner shadow-dark">
                                 <div class="portfolio-img">
-                                    <img src="images/portfolio-4.jpg" alt="">
+                                    <img src="./images/portfolio-4.jpg" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="portfolio-item padd-15">
                             <div class="portfolio-item-inner shadow-dark">
                                 <div class="portfolio-img">
-                                    <img src="images/portfolio-5.jpg" alt="">
+                                    <img src="./images/portfolio-5.jpg" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="portfolio-item padd-15">
                             <div class="portfolio-item-inner shadow-dark">
                                 <div class="portfolio-img">
-                                    <img src="images/portfolio-6.jpg" alt="">
+                                    <img src="./images/portfolio-6.jpg" alt="">
                                 </div>
                             </div>
                         </div>
